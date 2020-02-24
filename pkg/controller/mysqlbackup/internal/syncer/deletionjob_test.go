@@ -33,7 +33,7 @@ import (
 	api "github.com/presslabs/mysql-operator/pkg/apis/mysql/v1alpha1"
 	"github.com/presslabs/mysql-operator/pkg/internal/mysqlbackup"
 	"github.com/presslabs/mysql-operator/pkg/internal/mysqlcluster"
-	"github.com/presslabs/mysql-operator/pkg/options"
+	"github.com/jwi078/mysql-operator/pkg/options"
 )
 
 var _ = Describe("MysqlBackup remove job syncer", func() {

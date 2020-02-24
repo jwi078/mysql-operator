@@ -26,7 +26,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/client"
 
 	"github.com/presslabs/mysql-operator/pkg/internal/mysqlcluster"
-	"github.com/presslabs/mysql-operator/pkg/options"
+	"github.com/jwi078/mysql-operator/pkg/options"
 )
 
 // NewSecretSyncer returns secret syncer

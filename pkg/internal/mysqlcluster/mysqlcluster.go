@@ -18,7 +18,7 @@ package mysqlcluster
 
 import (
 	"fmt"
-	"github.com/presslabs/mysql-operator/pkg/options"
+	"github.com/jwi078/mysql-operator/pkg/options"
 	"strings"
 
 	"github.com/blang/semver"

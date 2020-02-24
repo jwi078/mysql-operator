@@ -31,7 +31,7 @@ import (
 
 	"github.com/presslabs/mysql-operator/pkg/apis"
 	"github.com/presslabs/mysql-operator/pkg/controller"
-	"github.com/presslabs/mysql-operator/pkg/options"
+	"github.com/jwi078/mysql-operator/pkg/options"
 )
 
 var log = logf.Log.WithName("mysql-operator")
