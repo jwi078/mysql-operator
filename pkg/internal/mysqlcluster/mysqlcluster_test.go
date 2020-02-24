@@ -29,7 +29,7 @@ import (
 
 	logf "github.com/presslabs/controller-util/log"
 	api "github.com/presslabs/mysql-operator/pkg/apis/mysql/v1alpha1"
-	"github.com/presslabs/mysql-operator/pkg/options"
+	"github.com/jwi078/mysql-operator/pkg/options"
 	"github.com/presslabs/mysql-operator/pkg/util/constants"
 )
 

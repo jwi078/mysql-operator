@@ -93,7 +93,7 @@ func newPullPolicyValue(defaultValue corev1.PullPolicy, v *corev1.PullPolicy) *p
 }
 
 const (
-	defaultExporterImage = "prom/mysqld-exporter:v0.11.0"
+	defaultExporterImage = "artifactory.wbaa.pl.ing.net/docker-io/prom/mysqld-exporter:v0.11.0"
 
 	defaultImagePullPolicy     = corev1.PullIfNotPresent
 	defaultImagePullSecretName = ""
